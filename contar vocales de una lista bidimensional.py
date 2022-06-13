@@ -1,4 +1,3 @@
-from operator import truediv
 import numpy as np
 lista=np.zeros((4,4), dtype= str)
 for f in range(4):
