@@ -1,7 +1,7 @@
 num=int(input("Cuántos números de fibonacci desea mostrar?"))
 def fibonacci(num):
     list=[]
-    primero=0
+    primero=1
     segundo=1
     cont=0
     while cont<num:
